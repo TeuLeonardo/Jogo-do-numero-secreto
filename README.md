@@ -37,8 +37,4 @@ Um jogo simples e divertido onde o jogador precisa adivinhar o número secreto g
 - JavaScript (ES6+)  
 - Web Speech API (SpeechSynthesis)
 
----
 
-## 📜 Licença
-- Este projeto está sob a licença MIT.
-- Sinta-se à vontade para usá-lo, modificar e compartilhar.
